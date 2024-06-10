@@ -1,4 +1,4 @@
 # deependrademo
 This is my first Git Repository
 <br>
-Author - Deependra prajapati
+Author - Deependra (Mr Deeps)
